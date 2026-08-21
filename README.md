@@ -79,7 +79,6 @@ card_studio/
 │   ├── presets/             # defaultTemplates, defaultStickers
 │   ├── schema/              # Zod templateSchema
 │   └── types/               # TypeScript 인터페이스
-├── EDGE_CASES.md            # 12대 극단 케이스 명세서
 ├── VALIDATION.md            # 검증 안내서 및 자체 점검표
 └── README.md                # 프로젝트 안내서
 ```

@@ -3,7 +3,7 @@
 ---
 
 ### 📍 어디로 가나요?
-- **공개 배포 주소 (GitHub Pages):** `https://<your-github-id>.github.io/<repository-name>/`
+- **공개 배포 주소 (GitHub Pages):** `https://altdmfk.github.io/meme_card_studio/`
 - **로컬 개발 주소:** `http://localhost:5173/` (`npm run dev`)
 
 ---
